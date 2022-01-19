@@ -14,6 +14,7 @@ This repository publicly houses various tutorials including: working with cojoin
 
 [*How to Customize `cjoint` Plots*](https://github.com/asdurso/Customizing-cjoint-Plots)(repeated from above)
 
-## Github and RStudio Quick Guide
+## Quick Start Guides
+[*Getting Started with RMD*](https://github.com/asdurso/Tutorials/blob/main/Getting%20Started%20with%20RMD.pdf)
 
 [*How to Commit, Push, and Pull*](https://github.com/asdurso/How-to-Commit-Push-Pull)
