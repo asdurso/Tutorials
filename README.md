@@ -1,5 +1,5 @@
 # Tutorials
-This repository publicly houses various tutorials including: working with cojoint data, various data visualization guides, and using Github with RStudio.
+This repository publicly houses various tutorials including: working with cojoint data; data visualization guides; and getting started with RMD and Github in RStudio.
 
 ------
 ## Conjoint Specific Tutorials (R)
@@ -12,9 +12,9 @@ This repository publicly houses various tutorials including: working with cojoin
 
 [*How to Create Directed Network Maps*](https://github.com/asdurso/How-to-Create-Directed-Network-Maps-in-R)
 
-[*How to Customize `cjoint` Plots*](https://github.com/asdurso/Customizing-cjoint-Plots)(repeated from above)
+[*How to Customize `cjoint` Plots*](https://github.com/asdurso/Customizing-cjoint-Plots)(also above)
 
 ## Quick Start Guides
-[*Getting Started with RMD*](https://github.com/asdurso/Tutorials/blob/main/Getting%20Started%20with%20RMD.pdf)
+[*RMD: How to Get Started with RMD*](https://github.com/asdurso/Tutorials/blob/main/Getting%20Started%20with%20RMD.pdf)
 
-[*How to Commit, Push, and Pull*](https://github.com/asdurso/How-to-Commit-Push-Pull)
+[*Github and RStudio: How to Commit, Push, and Pull*](https://github.com/asdurso/How-to-Commit-Push-Pull)
